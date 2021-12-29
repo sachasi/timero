@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timero/static/css/main.d516455c.css",
+    "main.js": "/timero/static/js/main.abf4fe1a.js",
+    "index.html": "/timero/index.html",
+    "main.d516455c.css.map": "/timero/static/css/main.d516455c.css.map",
+    "main.abf4fe1a.js.map": "/timero/static/js/main.abf4fe1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d516455c.css",
+    "static/js/main.abf4fe1a.js"
+  ]
+}
